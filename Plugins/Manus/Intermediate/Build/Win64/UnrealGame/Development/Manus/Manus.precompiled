@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Manus\\PCH.Manus.h.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Manus\\Module.Manus.1_of_3.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Manus\\Module.Manus.2_of_3.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\Manus\\Module.Manus.3_of_3.cpp.obj"
+	]
+}

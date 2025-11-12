@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ManualVRPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\VirtualX\Github\VX_PluginEditor\Intermediate\Build\Win64\x64\VX_PluginEditorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\VirtualX\Github\VX_PluginEditor\Plugins\ManualVRPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ManualVRPlugin\Module.ManualVRPlugin.cpp.obj"
+"C:\VirtualX\Github\VX_PluginEditor\Plugins\ManualVRPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ManualVRPlugin\Default.rc2.res"
+/OUT:"C:\VirtualX\Github\VX_PluginEditor\Plugins\ManualVRPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ManualVRPlugin\UnrealEditor-ManualVRPlugin.lib"

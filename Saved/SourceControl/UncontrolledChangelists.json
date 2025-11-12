@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Information_Box/InfoFloater/circle_light.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Information_Box/InfoFloater/Hologram_Cone.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Information_Box/InfoFloater/InfoFloater.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Information_Box/InfoFloater/InfoFloater/InfoFloater_White_Metal_BaseColor.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Information_Box/InfoFloater/InfoFloater/InfoFloater_White_Metal_Normal.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Information_Box/InfoFloater/InfoFloater/InfoFloater_White_Metal_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Information_Box/BP_InfoMachine.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/AFCore/Blueprints/Components/Interaction/Comp_Grab.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Grab/BP_GrabComponent_Example.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/AFCore/Examples/Maps/Map_Example_Interactions.umap",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Grab/VX_Grab.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Explain/BPI_Wid_AutoPlay.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Explain/Explain_Widget.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Explain/VX_Explain.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Explain/BP_ExplainComponent_Example.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_WidgetMasterArrow/VX_Pointer_Widget.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Action/BPI_Action.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Action/Action_Widget.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Action/BP_ActionComponent_Example.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Action/VX_Action.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Dialog/BPI_Dialog.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Dialog/VX_Dialog.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Dialog/BP_DialogComponent_Example.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Dialog/Preset_TextBox_Template.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Dialog/Preset_Dialog_Widget_Template.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Label/LABEL_Widget.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Label/BPI_Label.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Label/VX_Label.uasset",
+				"C:/Users/szeha/OneDrive/Documents/GitHub/HAO-Azureal_Template/Content/Azureal_Template/VX_Label/BP_LabelComponent_Example.uasset",
+				"C:/Github/HAO-Azureal_Template/Content/Azureal_Template/VX_WidgetMasterArrow/VX_Pointer_Widget.uasset",
+				"C:/Github/HAO-Azureal_Template/Content/AFCore/Meshes/Pawn/Hand/Oculus/Arrow_M.uasset",
+				"C:/Github/HAO-Azureal_Template/Content/AFCore/Examples/Maps/Map_Example_Interactions.umap",
+				"C:/Github/HAO-Azureal_Template/Content/Azureal_Template/VX_WidgetMasterArrow/Pointer_PNG/Pointer_M.uasset"
+			]
+		}
+	]
+}
