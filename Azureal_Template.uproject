@@ -55,6 +55,10 @@
 		{
 			"Name": "Manus",
 			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
